@@ -1,0 +1,6 @@
+---
+layout: default
+---
+  <script type="text/javascript">
+    window.location.href = "{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}{% endif %}";
+  </script>

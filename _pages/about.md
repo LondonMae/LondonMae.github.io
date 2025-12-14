@@ -23,12 +23,17 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a second-year Computer Science PhD student at UCLA, advised by Dr. Eunice
-Jun, where I currently design tools for scientists to reason about data. My research interests lie at the intersection of human-computer
-interaction, programming languages, and causal inference. Broadly, I'm enthusiastic about
-developing abstractions that empower people to reason about and make decisions under uncertainty.   
+I'm a second-year Computer Science PhD student at UCLA, advised by 
+[Prof. Eunice Jun](https://ucla-cdl.org/). 
+My research interests lie at the intersection of human-computer
+interaction, programming languages, and causal inference, with a focus on
+designing tools and languages for scientists to reason about experiments. 
+Broadly, I'm motivated by
+developing abstractions that empower people to make decisions under uncertainty.   
 
-My past research spans human-computing interaction and high-performance
-computing, including research on work-stealing algorithms and
-fully-unpriviledged container services Los Alamos National Laboratory. I recieved a B.S degree in Computer
-Science and German Studies from Rhodes College.
+My past research spans human–computer interaction and high-performance
+computing, including work on
+[Charliecloud](https://gitlab.com/charliecloud/charliecloud), a fully
+unprivileged container service for HPC applications. I received a B.S. in Computer Science and
+German Studies. In my free time, I enjoy surfing, hiking, and reading. 
+
